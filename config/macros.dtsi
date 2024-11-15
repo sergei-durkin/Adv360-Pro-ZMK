@@ -1,4 +1,5 @@
 macro_lang: macro_lang{
+wait-ms = <100>;
 compatible = "zmk,behavior-macro";
 label = "macro_lang";
 #binding-cells = <0>;
